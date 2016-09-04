@@ -1,14 +1,12 @@
 Sowmithri Vucha
 ============
-> <sowmithri.vucha@gmail.com> • (509) 554 7548 \
-> 1420 154<sup>th</sup> Ave NE, # 4602, Bellevue, WA - 98007 \
+> <sowmithri.vucha@gmail.com> • (509) 554 7548 
+
 > Work Authorization: Lawful Permanent Resident (Green Card)
 
 ----
 
 Seeking an opportunity to join the Microsoft LEAP program with my immediate software development skills and an extensive background in BI development and database programming.
-
-[//]: # >  Seeking a **'BI developer/Database programmer'** position
 
 ----
 
