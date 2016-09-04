@@ -14,12 +14,12 @@ Education
 ---------
 
 Nov 2014-Mar 2016 
-:   *Certification Program*; Bellevue College
+:   Certification Program; *Bellevue College*
 
    **Database Business Intelligence Developer**
 
 Aug 2007-May 2010
-:   *Bachelor of Technology*; Jawaharlal Nehru Technological University - Andhra Pradesh, India
+:   Bachelor of Technology; *Jawaharlal Nehru Technological University - Andhra Pradesh, India*
 
    **Major: Information Technology**
 
@@ -74,7 +74,7 @@ This project provided a near real time experience of day to day job responsibili
 Tools used: SQL Server Management Studio 2014, Visual Studio 2010 (SSIS, SSRS and SSAS)
 
 
-Computer SKills
+Computer Skills
 --------------------
 
 RDBMS
