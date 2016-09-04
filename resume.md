@@ -22,6 +22,26 @@ Aug 2007-May 2010
 :   Bachelor of Technology; *Jawaharlal Nehru Technological University - Andhra Pradesh, India*
 
    **Major: Information Technology**
+   
+Computer Skills
+--------------------
+
+RDBMS
+:   Microsoft-SQL Server 2012/2014, Oracle 10g 
+
+Data modeling
+:   ERWIN
+
+BI technologies
+:   SSIS, SSRS and SSAS
+
+Languages
+:   Python, T-SQL, PL/SQL
+
+Database tools
+:   SQL Server Management Studio, Visual Studio
+
+
 
 Experience
 ----------
@@ -72,25 +92,6 @@ This project provided a near real time experience of day to day job responsibili
 * Formatted measures and defined calculations.
 
 Tools used: SQL Server Management Studio 2014, Visual Studio 2010 (SSIS, SSRS and SSAS)
-
-
-Computer Skills
---------------------
-
-RDBMS
-:   Microsoft-SQL Server 2012/2014, Oracle 10g 
-
-Data modeling
-:   ERWIN
-
-BI technologies
-:   SSIS, SSRS and SSAS
-
-Languages
-:   Python, T-SQL, PL/SQL
-
-Database tools
-:   SQL Server Management Studio, Visual Studio
 
 ----
 
