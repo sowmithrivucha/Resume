@@ -16,12 +16,12 @@ Education
 Nov 2014-Mar 2016 
 :   *Certification Program*; Bellevue College
 
-    **Database Business Intelligence Developer**
+   **Database Business Intelligence Developer**
 
 Aug 2007-May 2010
 :   *Bachelor of Technology*; Jawaharlal Nehru Technological University - Andhra Pradesh, India
 
-    **Major: Information Technology**
+   **Major: Information Technology**
 
 Experience
 ----------
